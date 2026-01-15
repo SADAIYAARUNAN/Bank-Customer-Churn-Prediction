@@ -43,4 +43,4 @@ I built an end-to-end Machine Learning application that:
     ```
 
 ---
-*Created by [Your Name] - Data Science Portfolio*
+*Created by SADAIYA ARUNAN - Data Science Portfolio*
